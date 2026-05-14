@@ -1,0 +1,56 @@
+{
+    "urls": [		
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/fantaiying/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/feimao/fm.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/huban/api.json",
+            "name": "虎斑"
+        }, 
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/wangerxiao/api.json",
+            "name": "王二小"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/xiaosa/api.json",
+            "name": "潇洒"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/ouge/api.json",
+            "name": "欧歌"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/nanfeng/api.json",
+            "name": "南风"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/xiangyaqing/api.json",
+            "name": "香雅情"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/xiaomi/api.json",
+            "name": "小米"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/yinyue/api.json",
+            "name": "戏曲音乐"
+        },
+        {
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/shaoer/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/moyu/api.json",
+            "name": "摸鱼"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/OK/api.json",
+            "name": "OK"
+        } 
+    ]
+}
