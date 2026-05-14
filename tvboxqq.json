@@ -5,8 +5,12 @@
             "name": "饭太硬"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/feimao/fm.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/feimao/api.json",
             "name": "肥猫"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/moyu/api.json",
+            "name": "摸鱼"
         },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/huban/api.json",
@@ -43,10 +47,6 @@
         {
             "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/shaoer/api.json",
             "name": "少儿频道"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/moyu/api.json",
-            "name": "摸鱼"
         },
         {
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/OK/api.json",
