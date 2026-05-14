@@ -47,10 +47,6 @@
         {
             "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/shaoer/api.json",
             "name": "少儿频道"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvboxqq/refs/heads/main/OK/api.json",
-            "name": "OK"
-        } 
+        }
     ]
 }
